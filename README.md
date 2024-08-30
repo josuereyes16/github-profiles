@@ -1,6 +1,8 @@
 
 ## Josue Reyes Perfiles de Github / Github profiles Josue Reyes → [josuereyes16](https://github.com/josuereyes16)
 
+![image](https://github.com/user-attachments/assets/90bf984a-930d-4fb6-bffb-ea073d23c34e)
+
 | Description | Descripcion |
 |---------|---------|
 | This repository contains the source code for a web application that enables users to search for GitHub profiles using the GitHub API. Developed with HTML, CSS, and JavaScript, this project offers a straightforward and efficient way to access detailed information about GitHub users. The app displays key profile details, including repositories, follower count, and other public information, in a clean and user-friendly interface. <br> The main objective of this project is to provide a quick and reliable tool for developers and GitHub enthusiasts to explore and analyze GitHub profiles, enhancing the user experience with real-time data retrieval and display.	| Este repositorio contiene el código fuente de una aplicación web que permite a los usuarios buscar perfiles de GitHub utilizando la API de GitHub. Desarrollada con HTML, CSS y JavaScript, este proyecto ofrece una forma sencilla y eficiente de acceder a información detallada sobre los usuarios de GitHub. La aplicación muestra detalles clave del perfil, incluyendo repositorios, número de seguidores y otra información pública, en una interfaz limpia y fácil de usar. <br> El objetivo principal de este proyecto es proporcionar una herramienta rápida y confiable para que desarrolladores y entusiastas de GitHub exploren y analicen perfiles de GitHub, mejorando la experiencia del usuario con la recuperación y visualización de datos en tiempo real.|
